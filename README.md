@@ -1,2 +1,2 @@
-# MiMaxcoNet
-Original implementation of MiMaxcoNet.
+# CMiMC
+Source code for CMiMC
